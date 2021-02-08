@@ -1,0 +1,8 @@
+
+c
+java:S1128"ARemove this unused import 'org.eclipse.swt.events.MouseListener'.(ƒÀ‰¡ùÿÿÿÿ8õ÷˜ø.
+O
+java:S1172"-Remove this unused method parameter "parent".(’ÒŠ’şÿÿÿÿ8‚ëá˜ø.
+u
+java:S1450"XRemove the "userLogin" field and declare it as a local variable in the relevant methods.(á¬²õ8ÍùÎ”ø.
+E	java:S1087")Either remove or fill this block of code.(ŠÃØº8áˆ­—ø.
